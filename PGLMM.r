@@ -19,8 +19,7 @@ is.ultrametric(resolved_tree)
 
 #read in data and get rid of NAs
 data = read.csv("data/mutation_rates_final.csv", h = T, row.names = 1)
-data_u_gen = data[,c(1,2,5,6)]
-data_u_gen = na.omit(data_u_gen)
+data_u_gen = na.omit(data)
 
 #log transform variables
 data_u_gen = data_u_gen %>%
