@@ -1,4 +1,4 @@
-# Code and data for _'Estimates of the mutation rate per year can explain why the molecular clock depends on generation time'_
+# Code and data required to replicate the analysis in _'Estimates of the mutation rate per year can explain why the molecular clock depends on generation time'_
 
 ## File details
 - `mutation_rates_final.csv`: contains the mutation rate and generation time data required to run the code
