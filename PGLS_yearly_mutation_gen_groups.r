@@ -115,7 +115,7 @@ dev.off()
 
 
 
-# test for statistically significant difference between slopes & intercepts of two largest groups (mammals and reptiles)
+#t-test for difference between slopes & intercepts of two largest groups (mammals and reptiles)
 
 #extract slopes, intercepts and SEs for mammals and reptiles
 mammals_slope = pgls_results[["mammals"]][["coef"]]
