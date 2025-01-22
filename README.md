@@ -6,5 +6,5 @@
 - `PGLS_yearly_mutation_gen.r`: script to produce figure 1
 - `PGLS_yearly_mutation_gen_groups.r`: script to produce table 1 and supplementary figure 2
 - `PGLMM.r`: script to run the PGLMM 
-- `GT_error_simulation.r`: script to produce supplementary figure 1
+- `simulation_GT_error.r`: script to produce supplementary figure 1
 
