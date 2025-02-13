@@ -4,7 +4,6 @@ library(cowplot)
 library(ape)
 library(caper)
 library(dplyr)
-library(rr2)
 
 #read in Newick file
 tree = read.tree("data/timetree_list.nwk")
